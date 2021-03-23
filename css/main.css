@@ -72,7 +72,7 @@ a { text-decoration: none; color: #669; }
 
 .post-inner .meta { font-size: 1rem; }
 
-.post-inner h2 { font-family: sans-serif; font-size: 32px; margin: 0.3em 0;}
+.post-inner h2 { font-family: times; font-size: 32px; margin: 0.3em 0;}
 
 .figure { width: 200px; padding: 10px; border: 1px solid #AAA; }
 .figure img { width: 100%; }
