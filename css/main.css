@@ -68,7 +68,7 @@ html.secondary-16px { font-size: 16px; }
 
 body { font-size: 18px; }
 a { text-decoration: none; color: #669; }
-.post-inner { font-family: sans-serif; }
+.post-inner { font-family: times; }
 
 .post-inner .meta { font-size: 1rem; }
 
