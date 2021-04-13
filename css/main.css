@@ -107,3 +107,18 @@ p {font-family: 'Roboto Slab', serif;}
 div {font-family: 'Roboto Slab', serif;
 }
 
+nav ul {
+  list-style: none url(//:0); /* Remove bullets, without removing semantics */
+  list-style-type: none;
+  list-style-image: url(//:0);
+  list-style-position: outside;
+  padding-left: 0; /* Remove left padding for flush left appearance */
+}
+
+@media (min-width: 60em){
+   nav ul {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: start;
+    gap: 1rem;
+  }
