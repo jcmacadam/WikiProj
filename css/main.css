@@ -98,3 +98,8 @@ a[href^="#secondary"] {
   padding: 0 1rem;
   margin: 0 auto;
 }
+
+h1,h2{font-family: 'Baskervville', serif;
+}
+
+p {font-family: 'Roboto Slab', serif;}
