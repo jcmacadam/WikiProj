@@ -122,3 +122,23 @@ nav ul {
     justify-content: start;
     gap: 1rem;
   }
+
+  
+   #top, #bottom, #left, #right {
+	background: #FFFFFF;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 15px;
+		}
+		#left { left: 0; }
+		#right { right: 0; }
+		
+	#top,  {
+		left: 0; right: 0;
+		height: 15px;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }
+  
