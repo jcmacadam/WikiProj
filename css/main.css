@@ -130,7 +130,7 @@ nav ul {
 	}
 	#left, #right {
 		top: 0; bottom: 0;
-		width: 15px;
+		width: 30px;
 		}
 		#left { left: 0; }
 		#right { right: 0; }
