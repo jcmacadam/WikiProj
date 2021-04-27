@@ -121,7 +121,7 @@ nav ul {
     grid-auto-flow: column;
     justify-content: start;
     gap: 1rem;
-  }
+  
 
   
    #top, #bottom, #left, #right {
@@ -141,7 +141,7 @@ nav ul {
 		}
 		#top { top: 0; }
 		#bottom { bottom: 0; }
-  
+}
 
 	 img {
   border: 5px solid #FFFFFF;
